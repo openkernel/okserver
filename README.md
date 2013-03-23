@@ -1,4 +1,11 @@
 okserver
 ========
 
-A server framework
+okserver is a server frameworki
+It takes care of the following application server functions
+ process creation, termination
+ thread management
+ logging
+ tracing
+ and other misc server functions.
+
